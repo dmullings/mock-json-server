@@ -1,0 +1,22 @@
+{
+  events: [
+    {
+      id: 1,
+      time: "8:00 A"',
+      date: "1/17/2022",
+      title: "MLK Day",
+    },
+    {
+      id: 2,
+      time: "12:00 PM",
+      date: "2/14/2022",
+      title: "Valentine's Day",
+    },
+    {
+      id: 3,
+      time: "St. Patrick's Day",
+      date: "12/12/82",
+      title: "This is a title",
+    }
+  ]
+}
