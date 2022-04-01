@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "text",
+        "visible_in_grid": 1,
+        "uses_sources": 0,
+        "data_storage_location": null,
+        "created_at": "2022-03-16T13:06:23.000000Z",
+        "updated_at": "2022-03-16T13:06:23.000000Z"
+    },
+    {
+        "id": 2,
+        "name": "paragraph",
+        "visible_in_grid": 0,
+        "uses_sources": 0,
+        "data_storage_location": null,
+        "created_at": "2022-03-16T13:06:23.000000Z",
+        "updated_at": "2022-03-16T13:06:23.000000Z"
+    },
+    {
+        "id": 3,
+        "name": "select menu",
+        "visible_in_grid": 1,
+        "uses_sources": 1,
+        "data_storage_location": null,
+        "created_at": "2022-03-16T13:06:23.000000Z",
+        "updated_at": "2022-03-16T13:06:23.000000Z"
+    },
+    {
+        "id": 4,
+        "name": "number",
+        "visible_in_grid": 1,
+        "uses_sources": 0,
+        "data_storage_location": null,
+        "created_at": "2022-03-16T13:06:23.000000Z",
+        "updated_at": "2022-03-16T13:06:23.000000Z"
+    },
+    {
+        "id": 5,
+        "name": "date",
+        "visible_in_grid": 1,
+        "uses_sources": 0,
+        "data_storage_location": null,
+        "created_at": "2022-03-16T13:06:23.000000Z",
+        "updated_at": "2022-03-16T13:06:23.000000Z"
+    },
+    {
+        "id": 6,
+        "name": "checkbox",
+        "visible_in_grid": 1,
+        "uses_sources": 1,
+        "data_storage_location": null,
+        "created_at": "2022-03-16T13:06:23.000000Z",
+        "updated_at": "2022-03-16T13:06:23.000000Z"
+    },
+    {
+        "id": 7,
+        "name": "file",
+        "visible_in_grid": 1,
+        "uses_sources": 1,
+        "data_storage_location": "files",
+        "created_at": "2022-03-16T13:06:23.000000Z",
+        "updated_at": "2022-03-16T13:06:23.000000Z"
+    },
+    {
+        "id": 8,
+        "name": "sub-service",
+        "visible_in_grid": 0,
+        "uses_sources": 1,
+        "data_storage_location": "files",
+        "created_at": "2022-03-16T13:06:23.000000Z",
+        "updated_at": "2022-03-16T13:06:23.000000Z"
+    }
+]

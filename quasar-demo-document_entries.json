@@ -1,0 +1,792 @@
+[
+    {
+        "id": 2,
+        "document_id": 1,
+        "project_id": 1,
+        "created_by": 1,
+        "parent_id": 0,
+        "created_at": "2022-03-23T19:36:07.000000Z",
+        "updated_at": "2022-03-23T19:36:07.000000Z",
+        "values": [
+            {
+                "id": 44,
+                "document_entry_id": 2,
+                "field_id": 4,
+                "value": "Test Description\n\nWith Line Breaks\n\nThe line breaks should be preserved",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:53:50.000000Z",
+                "updated_at": "2022-03-31T21:02:29.000000Z"
+            },
+            {
+                "id": 45,
+                "document_entry_id": 2,
+                "field_id": 3,
+                "value": "2025-06-11",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:53:50.000000Z",
+                "updated_at": "2022-03-31T21:02:29.000000Z"
+            },
+            {
+                "id": 46,
+                "document_entry_id": 2,
+                "field_id": 10,
+                "value": "RY5000z",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:53:50.000000Z",
+                "updated_at": "2022-03-31T21:02:29.000000Z"
+            },
+            {
+                "id": 47,
+                "document_entry_id": 2,
+                "field_id": 11,
+                "value": "AMD",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:53:50.000000Z",
+                "updated_at": "2022-03-31T21:02:29.000000Z"
+            },
+            {
+                "id": 48,
+                "document_entry_id": 2,
+                "field_id": 12,
+                "value": "Luke Skywalker",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:53:50.000000Z",
+                "updated_at": "2022-03-31T21:02:29.000000Z"
+            },
+            {
+                "id": 49,
+                "document_entry_id": 2,
+                "field_id": 2,
+                "value": "air pods",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:53:50.000000Z",
+                "updated_at": "2022-03-31T21:02:29.000000Z"
+            },
+            {
+                "id": 50,
+                "document_entry_id": 2,
+                "field_id": 16,
+                "value": "random val",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:53:50.000000Z",
+                "updated_at": "2022-03-31T21:02:29.000000Z"
+            },
+            {
+                "id": 51,
+                "document_entry_id": 2,
+                "field_id": 18,
+                "value": "2022-03-14",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:53:50.000000Z",
+                "updated_at": "2022-03-31T21:02:29.000000Z"
+            },
+            {
+                "id": 77,
+                "document_entry_id": 2,
+                "field_id": 13,
+                "value": "California",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:02:29.000000Z",
+                "updated_at": "2022-03-31T21:02:29.000000Z"
+            },
+            {
+                "id": 78,
+                "document_entry_id": 2,
+                "field_id": 15,
+                "value": "Square Feet",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:02:29.000000Z",
+                "updated_at": "2022-03-31T21:02:29.000000Z"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "document_id": 1,
+        "project_id": 1,
+        "created_by": 1,
+        "parent_id": 0,
+        "created_at": "2022-03-23T19:38:40.000000Z",
+        "updated_at": "2022-03-23T19:38:40.000000Z",
+        "values": [
+            {
+                "id": 37,
+                "document_entry_id": 3,
+                "field_id": 4,
+                "value": "Very nice description",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:51:22.000000Z",
+                "updated_at": "2022-03-31T21:02:16.000000Z"
+            },
+            {
+                "id": 38,
+                "document_entry_id": 3,
+                "field_id": 3,
+                "value": "2022-02-28",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:51:22.000000Z",
+                "updated_at": "2022-03-31T21:02:16.000000Z"
+            },
+            {
+                "id": 39,
+                "document_entry_id": 3,
+                "field_id": 10,
+                "value": "AADA12900HK",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:51:22.000000Z",
+                "updated_at": "2022-03-31T21:02:16.000000Z"
+            },
+            {
+                "id": 40,
+                "document_entry_id": 3,
+                "field_id": 11,
+                "value": "Intel",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:51:22.000000Z",
+                "updated_at": "2022-03-31T21:02:16.000000Z"
+            },
+            {
+                "id": 41,
+                "document_entry_id": 3,
+                "field_id": 12,
+                "value": "Marques B",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:51:22.000000Z",
+                "updated_at": "2022-03-31T21:02:16.000000Z"
+            },
+            {
+                "id": 42,
+                "document_entry_id": 3,
+                "field_id": 2,
+                "value": "Interesting text",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:51:22.000000Z",
+                "updated_at": "2022-03-31T21:02:16.000000Z"
+            },
+            {
+                "id": 43,
+                "document_entry_id": 3,
+                "field_id": 18,
+                "value": "2022-03-16",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:51:22.000000Z",
+                "updated_at": "2022-03-31T21:02:16.000000Z"
+            },
+            {
+                "id": 75,
+                "document_entry_id": 3,
+                "field_id": 13,
+                "value": "California",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:02:16.000000Z",
+                "updated_at": "2022-03-31T21:02:16.000000Z"
+            },
+            {
+                "id": 76,
+                "document_entry_id": 3,
+                "field_id": 15,
+                "value": "Meters",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:02:16.000000Z",
+                "updated_at": "2022-03-31T21:02:16.000000Z"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "document_id": 1,
+        "project_id": 1,
+        "created_by": 1,
+        "parent_id": 0,
+        "created_at": "2022-03-23T19:39:34.000000Z",
+        "updated_at": "2022-03-23T19:39:34.000000Z",
+        "values": [
+            {
+                "id": 1,
+                "document_entry_id": 4,
+                "field_id": 4,
+                "value": "testing",
+                "user_id": 1,
+                "created_at": "2022-03-23T19:39:34.000000Z",
+                "updated_at": "2022-03-31T21:01:57.000000Z"
+            },
+            {
+                "id": 30,
+                "document_entry_id": 4,
+                "field_id": 3,
+                "value": "2022-03-14",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:50:09.000000Z",
+                "updated_at": "2022-03-31T21:01:57.000000Z"
+            },
+            {
+                "id": 31,
+                "document_entry_id": 4,
+                "field_id": 10,
+                "value": "7563TRS",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:50:09.000000Z",
+                "updated_at": "2022-03-31T21:01:57.000000Z"
+            },
+            {
+                "id": 32,
+                "document_entry_id": 4,
+                "field_id": 11,
+                "value": "Nokia",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:50:09.000000Z",
+                "updated_at": "2022-03-31T21:01:57.000000Z"
+            },
+            {
+                "id": 33,
+                "document_entry_id": 4,
+                "field_id": 12,
+                "value": "Bob",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:50:09.000000Z",
+                "updated_at": "2022-03-31T21:01:57.000000Z"
+            },
+            {
+                "id": 34,
+                "document_entry_id": 4,
+                "field_id": 2,
+                "value": "testing",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:50:09.000000Z",
+                "updated_at": "2022-03-31T21:01:57.000000Z"
+            },
+            {
+                "id": 35,
+                "document_entry_id": 4,
+                "field_id": 16,
+                "value": "testing 2",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:50:09.000000Z",
+                "updated_at": "2022-03-31T21:01:57.000000Z"
+            },
+            {
+                "id": 36,
+                "document_entry_id": 4,
+                "field_id": 18,
+                "value": "2002-03-21",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:50:09.000000Z",
+                "updated_at": "2022-03-31T21:01:57.000000Z"
+            },
+            {
+                "id": 71,
+                "document_entry_id": 4,
+                "field_id": 13,
+                "value": "Missouri",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:01:54.000000Z",
+                "updated_at": "2022-03-31T21:01:54.000000Z"
+            },
+            {
+                "id": 72,
+                "document_entry_id": 4,
+                "field_id": 15,
+                "value": "Tons",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:01:54.000000Z",
+                "updated_at": "2022-03-31T21:01:54.000000Z"
+            },
+            {
+                "id": 73,
+                "document_entry_id": 4,
+                "field_id": 13,
+                "value": "Missouri",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:01:57.000000Z",
+                "updated_at": "2022-03-31T21:01:57.000000Z"
+            },
+            {
+                "id": 74,
+                "document_entry_id": 4,
+                "field_id": 15,
+                "value": "Tons",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:01:57.000000Z",
+                "updated_at": "2022-03-31T21:01:57.000000Z"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "document_id": 1,
+        "project_id": 1,
+        "created_by": 1,
+        "parent_id": 0,
+        "created_at": "2022-03-23T19:42:13.000000Z",
+        "updated_at": "2022-03-23T19:42:13.000000Z",
+        "values": [
+            {
+                "id": 2,
+                "document_entry_id": 5,
+                "field_id": 4,
+                "value": "testing",
+                "user_id": 1,
+                "created_at": "2022-03-23T19:42:13.000000Z",
+                "updated_at": "2022-03-31T21:00:42.000000Z"
+            },
+            {
+                "id": 3,
+                "document_entry_id": 5,
+                "field_id": 2,
+                "value": "test",
+                "user_id": 1,
+                "created_at": "2022-03-23T19:42:13.000000Z",
+                "updated_at": "2022-03-31T21:00:42.000000Z"
+            },
+            {
+                "id": 24,
+                "document_entry_id": 5,
+                "field_id": 3,
+                "value": "2022-03-26",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:44:06.000000Z",
+                "updated_at": "2022-03-31T21:00:42.000000Z"
+            },
+            {
+                "id": 25,
+                "document_entry_id": 5,
+                "field_id": 10,
+                "value": "123Test2",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:44:06.000000Z",
+                "updated_at": "2022-03-31T21:00:42.000000Z"
+            },
+            {
+                "id": 26,
+                "document_entry_id": 5,
+                "field_id": 11,
+                "value": "IBM",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:44:06.000000Z",
+                "updated_at": "2022-03-31T21:00:42.000000Z"
+            },
+            {
+                "id": 27,
+                "document_entry_id": 5,
+                "field_id": 12,
+                "value": "Inspector Bill",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:44:06.000000Z",
+                "updated_at": "2022-03-31T21:00:42.000000Z"
+            },
+            {
+                "id": 28,
+                "document_entry_id": 5,
+                "field_id": 16,
+                "value": "testing",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:44:06.000000Z",
+                "updated_at": "2022-03-31T21:00:42.000000Z"
+            },
+            {
+                "id": 29,
+                "document_entry_id": 5,
+                "field_id": 18,
+                "value": "2026-10-21",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:44:06.000000Z",
+                "updated_at": "2022-03-31T21:00:42.000000Z"
+            },
+            {
+                "id": 69,
+                "document_entry_id": 5,
+                "field_id": 13,
+                "value": "New York",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:00:42.000000Z",
+                "updated_at": "2022-03-31T21:00:42.000000Z"
+            },
+            {
+                "id": 70,
+                "document_entry_id": 5,
+                "field_id": 15,
+                "value": "Tons",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:00:42.000000Z",
+                "updated_at": "2022-03-31T21:00:42.000000Z"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "document_id": 1,
+        "project_id": 1,
+        "created_by": 1,
+        "parent_id": 0,
+        "created_at": "2022-03-24T03:13:48.000000Z",
+        "updated_at": "2022-03-24T03:13:48.000000Z",
+        "values": [
+            {
+                "id": 4,
+                "document_entry_id": 6,
+                "field_id": 4,
+                "value": "Here comes a new challenger",
+                "user_id": 1,
+                "created_at": "2022-03-24T03:13:48.000000Z",
+                "updated_at": "2022-03-31T21:00:18.000000Z"
+            },
+            {
+                "id": 5,
+                "document_entry_id": 6,
+                "field_id": 3,
+                "value": "2022-03-16",
+                "user_id": 1,
+                "created_at": "2022-03-24T03:13:48.000000Z",
+                "updated_at": "2022-03-31T21:00:18.000000Z"
+            },
+            {
+                "id": 6,
+                "document_entry_id": 6,
+                "field_id": 2,
+                "value": "ipod",
+                "user_id": 1,
+                "created_at": "2022-03-24T03:13:48.000000Z",
+                "updated_at": "2022-03-31T21:00:18.000000Z"
+            },
+            {
+                "id": 21,
+                "document_entry_id": 6,
+                "field_id": 10,
+                "value": "42",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:42:53.000000Z",
+                "updated_at": "2022-03-31T21:00:18.000000Z"
+            },
+            {
+                "id": 22,
+                "document_entry_id": 6,
+                "field_id": 11,
+                "value": "Apple",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:42:53.000000Z",
+                "updated_at": "2022-03-31T21:00:18.000000Z"
+            },
+            {
+                "id": 23,
+                "document_entry_id": 6,
+                "field_id": 12,
+                "value": "Steve Jobs",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:42:53.000000Z",
+                "updated_at": "2022-03-31T21:00:18.000000Z"
+            },
+            {
+                "id": 68,
+                "document_entry_id": 6,
+                "field_id": 13,
+                "value": "California",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:00:18.000000Z",
+                "updated_at": "2022-03-31T21:00:18.000000Z"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "document_id": 1,
+        "project_id": 1,
+        "created_by": 1,
+        "parent_id": 0,
+        "created_at": "2022-03-30T19:48:33.000000Z",
+        "updated_at": "2022-03-30T19:48:33.000000Z",
+        "values": [
+            {
+                "id": 7,
+                "document_entry_id": 7,
+                "field_id": 4,
+                "value": "Testing",
+                "user_id": 1,
+                "created_at": "2022-03-30T19:48:33.000000Z",
+                "updated_at": "2022-03-31T21:00:04.000000Z"
+            },
+            {
+                "id": 8,
+                "document_entry_id": 7,
+                "field_id": 3,
+                "value": "2022-03-30",
+                "user_id": 1,
+                "created_at": "2022-03-30T19:48:33.000000Z",
+                "updated_at": "2022-03-31T21:00:04.000000Z"
+            },
+            {
+                "id": 9,
+                "document_entry_id": 7,
+                "field_id": 10,
+                "value": "G14-123",
+                "user_id": 1,
+                "created_at": "2022-03-30T19:48:33.000000Z",
+                "updated_at": "2022-03-31T21:00:04.000000Z"
+            },
+            {
+                "id": 10,
+                "document_entry_id": 7,
+                "field_id": 11,
+                "value": "Acme Inc.",
+                "user_id": 1,
+                "created_at": "2022-03-30T19:48:33.000000Z",
+                "updated_at": "2022-03-31T21:00:04.000000Z"
+            },
+            {
+                "id": 11,
+                "document_entry_id": 7,
+                "field_id": 12,
+                "value": "Inspector Gadget",
+                "user_id": 1,
+                "created_at": "2022-03-30T19:48:33.000000Z",
+                "updated_at": "2022-03-31T21:00:04.000000Z"
+            },
+            {
+                "id": 12,
+                "document_entry_id": 7,
+                "field_id": 2,
+                "value": "testing",
+                "user_id": 1,
+                "created_at": "2022-03-30T19:48:33.000000Z",
+                "updated_at": "2022-03-31T21:00:04.000000Z"
+            },
+            {
+                "id": 66,
+                "document_entry_id": 7,
+                "field_id": 13,
+                "value": "Hawaii",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:00:04.000000Z",
+                "updated_at": "2022-03-31T21:00:04.000000Z"
+            },
+            {
+                "id": 67,
+                "document_entry_id": 7,
+                "field_id": 15,
+                "value": "Inches",
+                "user_id": 1,
+                "created_at": "2022-03-31T21:00:04.000000Z",
+                "updated_at": "2022-03-31T21:00:04.000000Z"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "document_id": 1,
+        "project_id": 1,
+        "created_by": 1,
+        "parent_id": 0,
+        "created_at": "2022-03-31T20:28:12.000000Z",
+        "updated_at": "2022-03-31T20:28:12.000000Z",
+        "values": [
+            {
+                "id": 13,
+                "document_entry_id": 8,
+                "field_id": 4,
+                "value": "Test Description",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:28:12.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            },
+            {
+                "id": 14,
+                "document_entry_id": 8,
+                "field_id": 3,
+                "value": "2022-03-08",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:28:12.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            },
+            {
+                "id": 15,
+                "document_entry_id": 8,
+                "field_id": 10,
+                "value": "ABC123",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:28:12.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            },
+            {
+                "id": 16,
+                "document_entry_id": 8,
+                "field_id": 11,
+                "value": "Google",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:28:12.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            },
+            {
+                "id": 17,
+                "document_entry_id": 8,
+                "field_id": 12,
+                "value": "Inspector Cluso",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:28:12.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            },
+            {
+                "id": 18,
+                "document_entry_id": 8,
+                "field_id": 2,
+                "value": "test2",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:28:12.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            },
+            {
+                "id": 19,
+                "document_entry_id": 8,
+                "field_id": 16,
+                "value": "test3",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:28:12.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            },
+            {
+                "id": 20,
+                "document_entry_id": 8,
+                "field_id": 18,
+                "value": "2022-03-18",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:28:12.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            },
+            {
+                "id": 61,
+                "document_entry_id": 8,
+                "field_id": 13,
+                "value": "California",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:59:32.000000Z",
+                "updated_at": "2022-03-31T20:59:32.000000Z"
+            },
+            {
+                "id": 62,
+                "document_entry_id": 8,
+                "field_id": 15,
+                "value": "Square Feet",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:59:32.000000Z",
+                "updated_at": "2022-03-31T20:59:32.000000Z"
+            },
+            {
+                "id": 63,
+                "document_entry_id": 8,
+                "field_id": 13,
+                "value": "California",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:59:36.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            },
+            {
+                "id": 64,
+                "document_entry_id": 8,
+                "field_id": 15,
+                "value": "Square Feet",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:59:36.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            },
+            {
+                "id": 65,
+                "document_entry_id": 8,
+                "field_id": 17,
+                "value": "1",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:59:36.000000Z",
+                "updated_at": "2022-03-31T20:59:36.000000Z"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "document_id": 1,
+        "project_id": 1,
+        "created_by": 1,
+        "parent_id": 0,
+        "created_at": "2022-03-31T20:56:52.000000Z",
+        "updated_at": "2022-03-31T20:56:52.000000Z",
+        "values": [
+            {
+                "id": 52,
+                "document_entry_id": 9,
+                "field_id": 4,
+                "value": "asdadsadad",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:56:52.000000Z",
+                "updated_at": "2022-03-31T20:57:22.000000Z"
+            },
+            {
+                "id": 53,
+                "document_entry_id": 9,
+                "field_id": 3,
+                "value": "2022/03/16",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:56:52.000000Z",
+                "updated_at": "2022-03-31T20:57:22.000000Z"
+            },
+            {
+                "id": 54,
+                "document_entry_id": 9,
+                "field_id": 10,
+                "value": "456QWERTY",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:56:52.000000Z",
+                "updated_at": "2022-03-31T20:57:22.000000Z"
+            },
+            {
+                "id": 55,
+                "document_entry_id": 9,
+                "field_id": 11,
+                "value": "FACS",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:56:52.000000Z",
+                "updated_at": "2022-03-31T20:57:22.000000Z"
+            },
+            {
+                "id": 56,
+                "document_entry_id": 9,
+                "field_id": 13,
+                "value": "New York",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:56:52.000000Z",
+                "updated_at": "2022-03-31T20:57:22.000000Z"
+            },
+            {
+                "id": 57,
+                "document_entry_id": 9,
+                "field_id": 15,
+                "value": "Meters",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:56:52.000000Z",
+                "updated_at": "2022-03-31T20:57:22.000000Z"
+            },
+            {
+                "id": 58,
+                "document_entry_id": 9,
+                "field_id": 2,
+                "value": "Test Val",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:56:52.000000Z",
+                "updated_at": "2022-03-31T20:57:22.000000Z"
+            },
+            {
+                "id": 59,
+                "document_entry_id": 9,
+                "field_id": 17,
+                "value": "1",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:56:52.000000Z",
+                "updated_at": "2022-03-31T20:57:22.000000Z"
+            },
+            {
+                "id": 60,
+                "document_entry_id": 9,
+                "field_id": 12,
+                "value": "Greg Varni",
+                "user_id": 1,
+                "created_at": "2022-03-31T20:57:22.000000Z",
+                "updated_at": "2022-03-31T20:57:22.000000Z"
+            }
+        ]
+    }
+]
