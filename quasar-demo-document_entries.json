@@ -788,5 +788,302 @@
                 "updated_at": "2022-03-31T20:57:22.000000Z"
             }
         ]
+    },
+    {
+        "id": 12,
+        "document_id": 2,
+        "project_id": 1,
+        "created_by": 1,
+        "parent_id": 0,
+        "created_at": "2022-03-31T21:06:09.000000Z",
+        "updated_at": "2022-03-31T21:06:09.000000Z",
+        "values": [
+        {
+            "id": 93,
+            "document_entry_id": 12,
+            "field_id": 4,
+            "value": "Submittal Description\n\nTest",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:06:09.000000Z",
+            "updated_at": "2022-03-31T21:06:09.000000Z"
+        },
+        {
+            "id": 94,
+            "document_entry_id": 12,
+            "field_id": 3,
+            "value": "2022/03/01",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:06:09.000000Z",
+            "updated_at": "2022-03-31T21:06:09.000000Z"
+        },
+        {
+            "id": 95,
+            "document_entry_id": 12,
+            "field_id": 10,
+            "value": "SUB456",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:06:09.000000Z",
+            "updated_at": "2022-03-31T21:06:09.000000Z"
+        },
+        {
+            "id": 96,
+            "document_entry_id": 12,
+            "field_id": 11,
+            "value": "Acme",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:06:09.000000Z",
+            "updated_at": "2022-03-31T21:06:09.000000Z"
+        },
+        {
+            "id": 97,
+            "document_entry_id": 12,
+            "field_id": 12,
+            "value": "Michael Jordan",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:06:09.000000Z",
+            "updated_at": "2022-03-31T21:06:09.000000Z"
+        },
+        {
+            "id": 98,
+            "document_entry_id": 12,
+            "field_id": 13,
+            "value": "New York",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:06:09.000000Z",
+            "updated_at": "2022-03-31T21:06:09.000000Z"
+        },
+        {
+            "id": 99,
+            "document_entry_id": 12,
+            "field_id": 15,
+            "value": "Meters",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:06:09.000000Z",
+            "updated_at": "2022-03-31T21:06:09.000000Z"
+        }
+        ]
+    },
+    {
+        "id": 13,
+        "document_id": 2,
+        "project_id": 1,
+        "created_by": 1,
+        "parent_id": 0,
+        "created_at": "2022-03-31T21:35:29.000000Z",
+        "updated_at": "2022-03-31T21:35:29.000000Z",
+        "values": [
+        {
+            "id": 100,
+            "document_entry_id": 13,
+            "field_id": 4,
+            "value": "Beat LA",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:35:29.000000Z",
+            "updated_at": "2022-03-31T21:35:29.000000Z"
+        },
+        {
+            "id": 101,
+            "document_entry_id": 13,
+            "field_id": 3,
+            "value": "1985/06/22",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:35:29.000000Z",
+            "updated_at": "2022-03-31T21:35:29.000000Z"
+        },
+        {
+            "id": 102,
+            "document_entry_id": 13,
+            "field_id": 10,
+            "value": "BOS345",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:35:29.000000Z",
+            "updated_at": "2022-03-31T21:35:29.000000Z"
+        },
+        {
+            "id": 103,
+            "document_entry_id": 13,
+            "field_id": 11,
+            "value": "Celtics",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:35:29.000000Z",
+            "updated_at": "2022-03-31T21:35:29.000000Z"
+        },
+        {
+            "id": 104,
+            "document_entry_id": 13,
+            "field_id": 12,
+            "value": "Pat Riley",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:35:29.000000Z",
+            "updated_at": "2022-03-31T21:35:29.000000Z"
+        },
+        {
+            "id": 105,
+            "document_entry_id": 13,
+            "field_id": 13,
+            "value": "California",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:35:29.000000Z",
+            "updated_at": "2022-03-31T21:35:29.000000Z"
+        },
+        {
+            "id": 106,
+            "document_entry_id": 13,
+            "field_id": 15,
+            "value": "Inches",
+            "user_id": 1,
+            "created_at": "2022-03-31T21:35:29.000000Z",
+            "updated_at": "2022-03-31T21:35:29.000000Z"
+        }
+        ]
+    },
+
+    {
+      "id": 10,
+      "document_id": 3,
+      "project_id": 1,
+      "created_by": 1,
+      "parent_id": 0,
+      "created_at": "2022-03-31T21:04:47.000000Z",
+      "updated_at": "2022-03-31T21:04:47.000000Z",
+      "values": [
+        {
+          "id": 79,
+          "document_entry_id": 10,
+          "field_id": 4,
+          "value": "Test RFI Description",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:04:47.000000Z",
+          "updated_at": "2022-03-31T21:04:47.000000Z"
+        },
+        {
+          "id": 80,
+          "document_entry_id": 10,
+          "field_id": 3,
+          "value": "2022/03/22",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:04:47.000000Z",
+          "updated_at": "2022-03-31T21:04:47.000000Z"
+        },
+        {
+          "id": 81,
+          "document_entry_id": 10,
+          "field_id": 10,
+          "value": "FRI123",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:04:47.000000Z",
+          "updated_at": "2022-03-31T21:04:47.000000Z"
+        },
+        {
+          "id": 82,
+          "document_entry_id": 10,
+          "field_id": 11,
+          "value": "Acme",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:04:47.000000Z",
+          "updated_at": "2022-03-31T21:04:47.000000Z"
+        },
+        {
+          "id": 83,
+          "document_entry_id": 10,
+          "field_id": 12,
+          "value": "Bill",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:04:47.000000Z",
+          "updated_at": "2022-03-31T21:04:47.000000Z"
+        },
+        {
+          "id": 84,
+          "document_entry_id": 10,
+          "field_id": 13,
+          "value": "California",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:04:47.000000Z",
+          "updated_at": "2022-03-31T21:04:47.000000Z"
+        },
+        {
+          "id": 85,
+          "document_entry_id": 10,
+          "field_id": 15,
+          "value": "Square Feet",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:04:47.000000Z",
+          "updated_at": "2022-03-31T21:04:47.000000Z"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "document_id": 3,
+      "project_id": 1,
+      "created_by": 1,
+      "parent_id": 0,
+      "created_at": "2022-03-31T21:05:25.000000Z",
+      "updated_at": "2022-03-31T21:05:25.000000Z",
+      "values": [
+        {
+          "id": 86,
+          "document_entry_id": 11,
+          "field_id": 4,
+          "value": "RFI Description",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:05:25.000000Z",
+          "updated_at": "2022-03-31T21:05:25.000000Z"
+        },
+        {
+          "id": 87,
+          "document_entry_id": 11,
+          "field_id": 3,
+          "value": "2022/03/08",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:05:25.000000Z",
+          "updated_at": "2022-03-31T21:05:25.000000Z"
+        },
+        {
+          "id": 88,
+          "document_entry_id": 11,
+          "field_id": 10,
+          "value": "RFI212",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:05:25.000000Z",
+          "updated_at": "2022-03-31T21:05:25.000000Z"
+        },
+        {
+          "id": 89,
+          "document_entry_id": 11,
+          "field_id": 11,
+          "value": "FACS",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:05:25.000000Z",
+          "updated_at": "2022-03-31T21:05:25.000000Z"
+        },
+        {
+          "id": 90,
+          "document_entry_id": 11,
+          "field_id": 12,
+          "value": "Patryk",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:05:25.000000Z",
+          "updated_at": "2022-03-31T21:05:25.000000Z"
+        },
+        {
+          "id": 91,
+          "document_entry_id": 11,
+          "field_id": 13,
+          "value": "California",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:05:25.000000Z",
+          "updated_at": "2022-03-31T21:05:25.000000Z"
+        },
+        {
+          "id": 92,
+          "document_entry_id": 11,
+          "field_id": 15,
+          "value": "Inches",
+          "user_id": 1,
+          "created_at": "2022-03-31T21:05:25.000000Z",
+          "updated_at": "2022-03-31T21:05:25.000000Z"
+        }
+      ]
     }
 ]
